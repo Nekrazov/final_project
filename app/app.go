@@ -1,16 +1,16 @@
 package application
 
 import (
-	bufio
-	encodingjson
-	errors
-	fmt
-	log
-	nethttp
-	os
-	strings
+	"bufio"
+	"encodingjson"
+	"errors"
+	"fmt"
+	"log"
+	"nethttp"
+	"os"
+	"strings"
 
-	github.com/Nekrazov/final_project/calc
+	"github.com/Nekrazov/final_project/calc"
 )
 
 type Config struct {
